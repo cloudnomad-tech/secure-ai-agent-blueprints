@@ -1,3 +1,5 @@
+This is a draft.
+
 # Contributing Guidelines
 
 Thank you for contributing!
